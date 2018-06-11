@@ -5,7 +5,9 @@ public class App {
  {
 	
 	 System.out.println("hello world");
-	 System.out.println("Hello world : Accenture-BDC");
-	
-  }
+
+	 System.out.println("Hello world : Accenture-Sydney");
+	 System.out.println("Hello world : Accenture LKM");
+}
+
 }
