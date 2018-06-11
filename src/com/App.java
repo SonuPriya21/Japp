@@ -1,10 +1,13 @@
 package com;
 
 public class App {
- public static void main(String[] args) {
+ public static void main(String[] args)
+ {
 	
 	 System.out.println("hello world");
-	 System.out.println("Hello world : Accenture-sSydney");
+
+	 System.out.println("Hello world : Accenture-Sydney");
 	 System.out.println("Hello world : Accenture LKM");
 }
+
 }
